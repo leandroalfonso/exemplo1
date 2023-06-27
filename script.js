@@ -1,4 +1,4 @@
-const OPEN_API_KEY = "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"; 
+const OPEN_API_KEY = "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"; 
 // para gerar sua chave acesse: https://platform.openai.com
 
 let txtPergunta = document.querySelector("#txtPergunta");
